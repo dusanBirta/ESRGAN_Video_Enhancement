@@ -5,6 +5,11 @@ Enhance Videos Using ESRGAN
 
 https://github.com/dusanBirta/ESRGAN_Video_Enhancement/assets/31896340/58955890-eaea-45ff-ae5a-000de10f803d
 
+
+
+
+
+
 ### Results of RealESRGAN_x4plus model:
 
 #### After 1 Iteration:
@@ -15,7 +20,8 @@ https://github.com/dusanBirta/ESRGAN_Video_Enhancement/assets/31896340/e0f2e138-
 
 https://github.com/dusanBirta/ESRGAN_Video_Enhancement/assets/31896340/79cf9cd9-7837-4667-b7ed-0afb869c36ca
 
-#### After 3 Iterations:
+
+
 
 
 
@@ -32,6 +38,7 @@ https://github.com/dusanBirta/ESRGAN_Video_Enhancement/assets/31896340/9e1d7694-
 #### After 3 Iterations:
 
 https://github.com/dusanBirta/ESRGAN_Video_Enhancement/assets/31896340/c56a61cc-722a-4ea7-9d36-1fdbf439afe6
+
 
 
 
